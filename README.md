@@ -1,4 +1,4 @@
-## Advertising_campaigns
+## Advertising_Campaign_Analytics
 
 #### Technology Stack:
 PostgreSQL (data aggregation, CTE, joins, union), Looker Studio (dashboard creation)
