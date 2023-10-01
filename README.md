@@ -18,8 +18,7 @@ To visualize the data effectively, I incorporated three charts into the dashboar
 3. A table with columns and heatmaps, presenting campaign names as dimensions and metrics such as total Ad Spend, CPC, CPM, CTR, and ROMI.
 I also added filters to the report for campaign names and display dates, enhancing the report's interactivity.
 
-#### Looker Studio Link:
-https://lookerstudio.google.com/reporting/7b8937f4-c4ad-4060-847f-555caeb23ad3
+[Looker Studio Link](https://lookerstudio.google.com/reporting/7b8937f4-c4ad-4060-847f-555caeb23ad3)
 
 #### Skills:
 SQL, PostgreSQL, DBeaver, Looker Studio, Business Intelligence (BI)
