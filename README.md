@@ -16,6 +16,7 @@ To visualize the data effectively, I incorporated three charts into the dashboar
 1. A combined chart displaying ad run dates on the horizontal axis and Ad Spend and ROMI for each month on two vertical axes, sorted chronologically.
 2. A line graph illustrating the number of active campaigns per month.
 3. A table with columns and heatmaps, presenting campaign names as dimensions and metrics such as total Ad Spend, CPC, CPM, CTR, and ROMI.
+
 I also added filters to the report for campaign names and display dates, enhancing the report's interactivity.
 
 [Looker Studio Link](https://lookerstudio.google.com/reporting/7b8937f4-c4ad-4060-847f-555caeb23ad3)
