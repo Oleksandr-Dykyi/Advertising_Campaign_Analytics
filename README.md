@@ -22,4 +22,4 @@ I also added filters to the report for campaign names and display dates, enhanci
 [Looker Studio Link](https://lookerstudio.google.com/reporting/7b8937f4-c4ad-4060-847f-555caeb23ad3)
 
 #### Skills:
-SQL, PostgreSQL, DBeaver, Looker Studio, Business Intelligence (BI)
+Data Analysis · SQL · PostgreSQL · DBeaver · Business Intelligence (BI) · Looker (Software) · Data Visualization
